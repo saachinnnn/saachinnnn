@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 16" width="800" height="16">
+  <!-- RPG Menu Border - Pixel Art Divider -->
+  <!-- Top border line -->
+  <rect x="0" y="0" width="800" height="2" fill="#1a1a1a"/>
+  <!-- Main decorative pixel line -->
+  <rect x="0" y="2" width="2" height="2" fill="#dd2d4a"/>
+  <rect x="2" y="2" width="2" height="2" fill="#555"/>
+  <rect x="4" y="2" width="2" height="2" fill="#dd2d4a"/>
+  <rect x="6" y="2" width="2" height="2" fill="#555"/>
+  <!-- Left diamond -->
+  <rect x="20" y="4" width="4" height="2" fill="#dd2d4a"/>
+  <rect x="18" y="6" width="2" height="2" fill="#dd2d4a"/>
+  <rect x="26" y="6" width="2" height="2" fill="#dd2d4a"/>
+  <rect x="20" y="6" width="6" height="2" fill="#8b1a2b"/>
+  <rect x="20" y="8" width="4" height="2" fill="#dd2d4a"/>
+  <!-- Repeating dot pattern -->
+  <rect x="40" y="6" width="2" height="2" fill="#dd2d4a" opacity="0.6"/>
+  <rect x="50" y="6" width="2" height="2" fill="#dd2d4a" opacity="0.4"/>
+  <rect x="60" y="6" width="2" height="2" fill="#dd2d4a" opacity="0.6"/>
+  <rect x="70" y="6" width="2" height="2" fill="#dd2d4a" opacity="0.4"/>
+  <rect x="80" y="6" width="2" height="2" fill="#dd2d4a" opacity="0.6"/>
+  <rect x="90" y="6" width="2" height="2" fill="#dd2d4a" opacity="0.4"/>
+  <rect x="100" y="6" width="2" height="2" fill="#dd2d4a" opacity="0.6"/>
+  <!-- Center sword pixel art -->
+  <rect x="370" y="2" width="4" height="2" fill="#c9d1d9"/>
+  <rect x="374" y="2" width="2" height="2" fill="#888"/>
+  <rect x="370" y="4" width="2" height="2" fill="#888"/>
+  <rect x="372" y="4" width="4" height="2" fill="#c9d1d9"/>
+  <rect x="368" y="6" width="2" height="2" fill="#dd2d4a"/>
+  <rect x="376" y="6" width="2" height="2" fill="#dd2d4a"/>
+  <rect x="370" y="6" width="6" height="2" fill="#8b1a2b"/>
+  <rect x="372" y="8" width="2" height="2" fill="#dd2d4a"/>
+  <rect x="372" y="10" width="2" height="2" fill="#c9d1d9"/>
+  <rect x="372" y="12" width="2" height="2" fill="#c9d1d9"/>
+  <!-- Right side dots -->
+  <rect x="700" y="6" width="2" height="2" fill="#dd2d4a" opacity="0.4"/>
+  <rect x="710" y="6" width="2" height="2" fill="#dd2d4a" opacity="0.6"/>
+  <rect x="720" y="6" width="2" height="2" fill="#dd2d4a" opacity="0.4"/>
+  <rect x="730" y="6" width="2" height="2" fill="#dd2d4a" opacity="0.6"/>
+  <rect x="740" y="6" width="2" height="2" fill="#dd2d4a" opacity="0.4"/>
+  <rect x="750" y="6" width="2" height="2" fill="#dd2d4a" opacity="0.6"/>
+  <rect x="760" y="6" width="2" height="2" fill="#dd2d4a" opacity="0.4"/>
+  <!-- Right diamond -->
+  <rect x="774" y="4" width="4" height="2" fill="#dd2d4a"/>
+  <rect x="772" y="6" width="2" height="2" fill="#dd2d4a"/>
+  <rect x="780" y="6" width="2" height="2" fill="#dd2d4a"/>
+  <rect x="774" y="6" width="6" height="2" fill="#8b1a2b"/>
+  <rect x="774" y="8" width="4" height="2" fill="#dd2d4a"/>
+  <!-- Right border pixels -->
+  <rect x="794" y="2" width="2" height="2" fill="#dd2d4a"/>
+  <rect x="796" y="2" width="2" height="2" fill="#555"/>
+  <rect x="798" y="2" width="2" height="2" fill="#dd2d4a"/>
+  <!-- Bottom border line -->
+  <rect x="0" y="14" width="800" height="2" fill="#1a1a1a"/>
+  <!-- Subtle pulse animation on center sword -->
+  <g opacity="1">
+    <animate attributeName="opacity" values="1;0.5;1" dur="3s" repeatCount="indefinite"/>
+    <rect x="370" y="2" width="8" height="12" fill="none"/>
+  </g>
+</svg>

@@ -2,29 +2,43 @@
 <!--                        saachinnnn/saachinnnn                       -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
+<!-- ═══════════════════ 1. WAVING HEADER ═══════════════════ -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2a0a10,100:dd2d4a&height=120&section=header&fontSize=0" width="100%"/>
 </div>
 
-<!-- ═══════════════════ HEADER ═══════════════════ -->
+<!-- ═══════════════════ 2. PLAYER NAME ═══════════════════ -->
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=DD2D4A&center=true&vCenter=true&repeat=true&width=600&height=55&lines=%3E+PLAYER+%3A%3A+SACHIN)](https://git.io/typing-svg)
 
-<!-- Animated heartbar - commit heartbar.svg to root of your repo -->
-<img src="https://raw.githubusercontent.com/saachinnnn/saachinnnn/main/heartbar.svg" alt="heartbar" width="480"/>
+<!-- ═══════════════════ 3. ANIMATED HEARTBAR ═══════════════════ -->
+
+<img src="https://raw.githubusercontent.com/saachinnnn/saachinnnn/main/heartbar.svg" alt="heartbar" width="520"/>
 
 <br/>
 
-<!-- Minecraft splash text - rotates through quotes -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=800&color=FFFF55&center=true&vCenter=true&repeat=true&width=500&height=25&lines=Also+try+building+RAG+systems!;Minceraft!;The+work+was+finished!;Now+with+extra+embeddings!;As+seen+on+localhost!;100%25+organic+retrieval!;Survival+mode%3A+ON)](https://git.io/typing-svg)
+<!-- ═══════════════════ 4. MINECRAFT SPLASH TEXT ═══════════════════ -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=800&color=FFFF55&center=true&vCenter=true&repeat=true&width=500&height=28&lines=Also+try+Terraria!;Minceraft!;12+herbs+and+spices!;Infinite+worlds!;Keyboard+compatible!;Sublime!;Now+with+extra+cheese!;SOPA+means+SOUP!;sqrt(-1)+love+you!;Scary!;Now+with+more+TNT!;Monster+spawner!)](https://git.io/typing-svg)
 
 </div>
 
----
+<!-- ════════ DIVIDER ════════ -->
 
-<!-- ═══════════════════ PIXEL STATS (THE GOOD STUFF) ═══════════════════ -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saachinnnn/saachinnnn/main/pixel-divider.svg" alt="" width="700"/>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=4000&pause=1500&color=555555&center=true&vCenter=true&repeat=true&width=420&height=18&lines=Building+terrain...;Loading+world...;Saving+chunks...)](https://git.io/typing-svg)
+
+</div>
+
+<!-- ═══════════════════ 5. PLAYER STATS ═══════════════════ -->
 
 ## `> PLAYER STATS`
 
@@ -38,32 +52,33 @@
 
 <br/>
 
-<!-- Streak Stats -->
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=saachinnnn&hide_border=true&background=000000&stroke=dd2d4a&ring=dd2d4a&fire=ff6600&currStreakNum=dd2d4a&sideNums=dd2d4a&currStreakLabel=dd2d4a&sideLabels=c9d1d9&dates=555555" width="460" alt="streak"/>
 </a>
 
 <br/>
 
-<!-- Top Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saachinnnn&layout=compact&hide_border=true&bg_color=000000&title_color=dd2d4a&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="370" alt="languages"/>
 
 <br/>
 
-<!-- Trophies (mirror for reliability) -->
 <img src="https://github-profile-trophy.vercel.app/?username=saachinnnn&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=6" width="700" alt="trophies"/>
 
 </div>
 
+<!-- ════════ DIVIDER ════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saachinnnn/saachinnnn/main/pixel-divider.svg" alt="" width="700"/>
+</div>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=4000&pause=1500&color=555555&center=true&vCenter=true&repeat=true&width=420&height=18&lines=%5BSplash%5D+Every+commit+is+a+block+placed...;%5BSplash%5D+You+can't+sleep+now,+there+are+bugs+nearby;%5BSplash%5D+Respawning+at+last+checkpoint...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=4000&pause=1500&color=555555&center=true&vCenter=true&repeat=true&width=420&height=18&lines=You+can't+sleep+now,+there+are+bugs+nearby;Achievement+Get!;Don't+dig+straight+down.)](https://git.io/typing-svg)
 
 </div>
 
----
-
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
+<!-- ═══════════════════ 6. ABOUT ME ═══════════════════ -->
 
 ## `> SELECT * FROM about_me;`
 
@@ -77,9 +92,19 @@ const sachin = {
 };
 ```
 
----
+<!-- ════════ DIVIDER ════════ -->
 
-<!-- ═══════════════════ TECH STACK ═══════════════════ -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saachinnnn/saachinnnn/main/pixel-divider.svg" alt="" width="700"/>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=3500&pause=1200&color=555555&center=true&vCenter=true&repeat=true&width=420&height=18&lines=%5BEnchanting+Table+intensifies%5D;Inventory+full!;Wow!)](https://git.io/typing-svg)
+
+</div>
+
+<!-- ═══════════════════ 7. TECH STACK / INVENTORY ═══════════════════ -->
 
 ## `> LOADING INVENTORY...`
 
@@ -128,15 +153,19 @@ const sachin = {
 
 </div>
 
+<!-- ════════ DIVIDER ════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saachinnnn/saachinnnn/main/pixel-divider.svg" alt="" width="700"/>
+</div>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=3500&pause=1200&color=555555&center=true&vCenter=true&repeat=true&width=420&height=18&lines=%5BSplash%5D+Gathering+enchanted+tools...;%5BSplash%5D+Inventory+full!;%5BSplash%5D+Now+with+Efficiency+V!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=3500&pause=1200&color=555555&center=true&vCenter=true&repeat=true&width=420&height=18&lines=Gathering+enchanted+tools...;Now+with+Efficiency+V!;Mmmph,+mmph!)](https://git.io/typing-svg)
 
 </div>
 
----
-
-<!-- ═══════════════════ ADVENTURE LOG ═══════════════════ -->
+<!-- ═══════════════════ 8. ADVENTURE LOG ═══════════════════ -->
 
 ## `> open book_and_quill --adventure_log`
 
@@ -159,13 +188,17 @@ const sachin = {
 +--------------------------------------------------------------+
 ```
 
+<!-- ════════ DIVIDER ════════ -->
+
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=4500&pause=1000&color=555555&center=true&vCenter=true&repeat=true&width=420&height=18&lines=%5BSplash%5D+Achievement+unlocked%3A+Dedicated!;%5BSplash%5D+The+dragon+has+not+been+defeated+yet...;%5BSplash%5D+Loading+chunks...)](https://git.io/typing-svg)
-
+  <img src="https://raw.githubusercontent.com/saachinnnn/saachinnnn/main/pixel-divider.svg" alt="" width="700"/>
 </div>
 
----
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=4500&pause=1000&color=555555&center=true&vCenter=true&repeat=true&width=420&height=18&lines=The+Void+awaits+below.;Every+block+you+place+is+a+story.;Game+saved.)](https://git.io/typing-svg)
+
+</div>
 
 <!-- ═══════════════════ ACTIVITY GRAPH ═══════════════════ -->
 
@@ -177,9 +210,19 @@ const sachin = {
 
 </div>
 
----
+<!-- ════════ DIVIDER ════════ -->
 
-<!-- ═══════════════════ CONTRIBUTION SNAKE ═══════════════════ -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saachinnnn/saachinnnn/main/pixel-divider.svg" alt="" width="700"/>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=4000&pause=1500&color=555555&center=true&vCenter=true&repeat=true&width=420&height=18&lines=Respawning...;This+is+good+for+realms!;Yay,+puppies+for+everyone!)](https://git.io/typing-svg)
+
+</div>
+
+<!-- ═══════════════════ 9. CONTRIBUTION SNAKE ═══════════════════ -->
 
 ## `> A WILD SNAKE APPEARED`
 
@@ -193,9 +236,19 @@ const sachin = {
 
 </div>
 
----
+<!-- ════════ DIVIDER ════════ -->
 
-<!-- ═══════════════════ CONNECT ═══════════════════ -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saachinnnn/saachinnnn/main/pixel-divider.svg" alt="" width="700"/>
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=4000&pause=1500&color=555555&center=true&vCenter=true&repeat=true&width=420&height=18&lines=Ssssssss...+BOOM;12+herbs+and+spices!;Infinite+worlds!)](https://git.io/typing-svg)
+
+</div>
+
+<!-- ═══════════════════ 10. MULTIPLAYER MODE ═══════════════════ -->
 
 ## `> MULTIPLAYER MODE`
 
@@ -208,11 +261,19 @@ const sachin = {
 
 </div>
 
-<!-- ═══════════════════ FOOTER ═══════════════════ -->
+<!-- ════════ DIVIDER ════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saachinnnn/saachinnnn/main/pixel-divider.svg" alt="" width="700"/>
+</div>
+
+<!-- ═══════════════════ 11. FOOTER ═══════════════════ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=600&color=DD2D4A&center=true&vCenter=true&repeat=true&width=550&height=25&lines=THANKS+FOR+VISITING.+INSERT+COIN+TO+CONTINUE...;%5BSplash%5D+Don't+forget+to+star!;%5BSplash%5D+You+died!+Score%3A+379)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=600&color=DD2D4A&center=true&vCenter=true&repeat=true&width=550&height=25&lines=THANKS+FOR+VISITING.+INSERT+COIN+TO+CONTINUE...;You+died!+Score%3A+379;Respawning+at+last+checkpoint...;Game+saved.)](https://git.io/typing-svg)
+
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saachinnnn&color=dd2d4a&style=for-the-badge&label=PROFILE+VIEWS)
 
