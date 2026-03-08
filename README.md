@@ -3,14 +3,14 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00ff41&height=120&section=header&fontSize=0" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2a0a10,100:dd2d4a&height=120&section=header&fontSize=0" width="100%"/>
 </div>
 
 <!-- ═══════════════════ HEADER ═══════════════════ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=55&lines=%3E+PLAYER+%3A%3A+SACHIN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=DD2D4A&center=true&vCenter=true&repeat=true&width=600&height=55&lines=%3E+PLAYER+%3A%3A+SACHIN)](https://git.io/typing-svg)
 
 ```
 HITPOINTS  ::  ♥♡♡♡♡♡♡♡♡♡
@@ -30,11 +30,11 @@ HITPOINTS  ::  ♥♡♡♡♡♡♡♡♡♡
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=saachinnnn&theme=hacker&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=ff6600&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=555555" width="460" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=saachinnnn&hide_border=true&background=000000&stroke=dd2d4a&ring=dd2d4a&fire=ff6600&currStreakNum=dd2d4a&sideNums=dd2d4a&currStreakLabel=dd2d4a&sideLabels=c9d1d9&dates=555555" width="460" alt="streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saachinnnn&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" width="370" alt="languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saachinnnn&layout=compact&hide_border=true&bg_color=000000&title_color=dd2d4a&text_color=c9d1d9" width="370" alt="languages"/>
 
 </div>
 
@@ -42,7 +42,7 @@ HITPOINTS  ::  ♥♡♡♡♡♡♡♡♡♡
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saachinnnn&theme=matrix&no-bg=true&no-frame=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saachinnnn&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -146,7 +146,7 @@ const sachin = {
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saachinnnn&theme=green&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area_color=00ff41&area=true&hide_border=true)](https://github.com/saachinnnn)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=saachinnnn&bg_color=000000&color=dd2d4a&line=dd2d4a&point=ffffff&area_color=dd2d4a&area=true&hide_border=true)](https://github.com/saachinnnn)
 
 </div>
 
@@ -189,8 +189,8 @@ const sachin = {
 THANKS FOR VISITING. INSERT COIN TO CONTINUE...
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=saachinnnn&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=saachinnnn&color=dd2d4a&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:003300,100:00ff41&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2a0a10,100:dd2d4a&height=100&section=footer" width="100%"/>
 
 </div>
