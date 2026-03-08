@@ -1,18 +1,16 @@
-# GitHub Action for generating a contribution snake animation
-# Place this file at: .github/workflows/snake.yml in your saachinnnn/saachinnnn repo
 
 name: Generate Snake Animation
 
 on:
-  # Run automatically every 12 hours
   schedule:
     - cron: "0 */12 * * *"
-  # Allow manual trigger from Actions tab
   workflow_dispatch:
-  # Run on push to main
   push:
     branches:
       - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
@@ -20,7 +18,7 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Generate github-contribution-grid-snake.svg
+      - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -30,7 +28,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push snake SVG to output branch
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
