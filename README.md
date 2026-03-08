@@ -12,13 +12,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=4000&pause=1000&color=DD2D4A&center=true&vCenter=true&repeat=true&width=600&height=55&lines=%3E+PLAYER+%3A%3A+SACHIN)](https://git.io/typing-svg)
 
-```
-HITPOINTS  ::  ♥♡♡♡♡♡♡♡♡♡
-```
+<!-- Animated heartbar - commit heartbar.svg to root of your repo -->
+<img src="https://raw.githubusercontent.com/saachinnnn/saachinnnn/main/heartbar.svg" alt="heartbar" width="480"/>
+
+<br/>
+
+<!-- Minecraft splash text - rotates through quotes -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=800&color=FFFF55&center=true&vCenter=true&repeat=true&width=500&height=25&lines=Also+try+building+RAG+systems!;Minceraft!;The+work+was+finished!;Now+with+extra+embeddings!;As+seen+on+localhost!;100%25+organic+retrieval!;Survival+mode%3A+ON)](https://git.io/typing-svg)
 
 </div>
 
+---
+
 <!-- ═══════════════════ PIXEL STATS (THE GOOD STUFF) ═══════════════════ -->
+
+## `> PLAYER STATS`
 
 <div align="center">
 
@@ -30,19 +38,26 @@ HITPOINTS  ::  ♥♡♡♡♡♡♡♡♡♡
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=saachinnnn&hide_border=true&background=000000&stroke=dd2d4a&ring=dd2d4a&fire=ff6600&currStreakNum=dd2d4a&sideNums=dd2d4a&currStreakLabel=dd2d4a&sideLabels=c9d1d9&dates=555555" width="460" alt="streak"/>
+<!-- Streak Stats -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=saachinnnn&hide_border=true&background=000000&stroke=dd2d4a&ring=dd2d4a&fire=ff6600&currStreakNum=dd2d4a&sideNums=dd2d4a&currStreakLabel=dd2d4a&sideLabels=c9d1d9&dates=555555" width="460" alt="streak"/>
+</a>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saachinnnn&layout=compact&hide_border=true&bg_color=000000&title_color=dd2d4a&text_color=c9d1d9" width="370" alt="languages"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saachinnnn&layout=compact&hide_border=true&bg_color=000000&title_color=dd2d4a&text_color=c9d1d9&langs_count=8&cache_seconds=1800" width="370" alt="languages"/>
+
+<br/>
+
+<!-- Trophies (mirror for reliability) -->
+<img src="https://github-profile-trophy.vercel.app/?username=saachinnnn&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=6" width="700" alt="trophies"/>
 
 </div>
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saachinnnn&theme=radical&no-bg=true&no-frame=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=4000&pause=1500&color=555555&center=true&vCenter=true&repeat=true&width=420&height=18&lines=%5BSplash%5D+Every+commit+is+a+block+placed...;%5BSplash%5D+You+can't+sleep+now,+there+are+bugs+nearby;%5BSplash%5D+Respawning+at+last+checkpoint...)](https://git.io/typing-svg)
 
 </div>
 
@@ -113,6 +128,12 @@ const sachin = {
 
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=3500&pause=1200&color=555555&center=true&vCenter=true&repeat=true&width=420&height=18&lines=%5BSplash%5D+Gathering+enchanted+tools...;%5BSplash%5D+Inventory+full!;%5BSplash%5D+Now+with+Efficiency+V!)](https://git.io/typing-svg)
+
+</div>
+
 ---
 
 <!-- ═══════════════════ ADVENTURE LOG ═══════════════════ -->
@@ -137,6 +158,12 @@ const sachin = {
 |                                                               |
 +--------------------------------------------------------------+
 ```
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=8&duration=4500&pause=1000&color=555555&center=true&vCenter=true&repeat=true&width=420&height=18&lines=%5BSplash%5D+Achievement+unlocked%3A+Dedicated!;%5BSplash%5D+The+dragon+has+not+been+defeated+yet...;%5BSplash%5D+Loading+chunks...)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -185,9 +212,7 @@ const sachin = {
 
 <div align="center">
 
-```
-THANKS FOR VISITING. INSERT COIN TO CONTINUE...
-```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=10&duration=3000&pause=600&color=DD2D4A&center=true&vCenter=true&repeat=true&width=550&height=25&lines=THANKS+FOR+VISITING.+INSERT+COIN+TO+CONTINUE...;%5BSplash%5D+Don't+forget+to+star!;%5BSplash%5D+You+died!+Score%3A+379)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=saachinnnn&color=dd2d4a&style=for-the-badge&label=PROFILE+VIEWS)
 
